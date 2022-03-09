@@ -1,6 +1,6 @@
 # Predict_Customer_Churn
 ## Project Description
-Predict customer churn by training a model using tensorflow with 78% accuracy.
+Predict customer churn by training a model using tensorflow with 75% accuracy.
 ## How to run the project?
 ```sh
 jupyter notebook
